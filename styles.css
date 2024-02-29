@@ -108,4 +108,9 @@ p {
   .card-heading {
     font-size: 1.5rem;
   }
+  .meter-feet,
+  .liter-gallons,
+  .kilo-pound {
+    height: 150px;
+  }
 }
