@@ -17,7 +17,7 @@ body {
 
 .card {
   width: 700px;
-  height: 80vh;
+  height: 100vh;
   /* min-height: 800px; */
   /* justify-content: space-around; */
   background-color: #1f2937;
@@ -65,7 +65,7 @@ body {
   cursor: pointer;
 }
 
-.column-flex {
+column-flex {
   display: flex; /* Make the container a flexbox container */
   flex-direction: column; /* Arrange items vertically */
   justify-content: space-between; /* Distribute items evenly with space between */
