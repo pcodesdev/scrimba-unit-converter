@@ -104,6 +104,7 @@ p {
 @media screen and (max-width: 768px) {
   .card {
     width: 90vw;
+    height: 100vh;
   }
   .card-heading {
     font-size: 1.5rem;
@@ -112,5 +113,8 @@ p {
   .liter-gallons,
   .kilo-pound {
     height: 150px;
+  }
+  p {
+    margin-top: 0.4rem;
   }
 }
